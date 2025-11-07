@@ -31,6 +31,9 @@ For details on how this model was trained, including hyperparameters, data prepr
 pip install torch transformers
 ```
 
+This doesnt contain the best_model.pt and final_model itself, to get it download it here:
+https://www.kaggle.com/code/lentucky/news-classifier-using-balita-nlp/output?scriptVersionId=269250257
+
 ## Directory Structure
 
 ```
